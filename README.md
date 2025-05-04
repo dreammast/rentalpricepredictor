@@ -99,5 +99,5 @@ The input data should be a CSV file with the following columns:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/rental-trend-predictor 
+Your Name - naledushyanth@gmail.com
+Project Link: https://github.com/dreammast/rental-trend-predictor 
