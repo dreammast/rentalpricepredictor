@@ -1,4 +1,4 @@
-url of application:https://f100f12a-cac0-4dc7-9a02-253a1a94597a-00-1y2ph3v5oer4q.picard.replit.dev/
+
 # Rental Trend Predictor
 
 ## Overview
